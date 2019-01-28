@@ -31,7 +31,7 @@ public class MyServlet extends HttpServlet{
 	@Override
 	protected void doPost(HttpServletRequest reqest, HttpServletResponse response) 
 			throws ServletException, IOException {
-		response.getWriter().println("My name is madhur nnn");
+		response.getWriter().println("My name is madhur nnnvfgfg");
 	}
 	
 }
